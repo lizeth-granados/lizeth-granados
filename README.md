@@ -1,0 +1,4 @@
+- 👋 Hi, I’m lizeth Granados
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently learning Phyton and automation.
+- 📫 Send a DM on Instagram : @holo.liz.gg
